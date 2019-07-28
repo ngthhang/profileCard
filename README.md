@@ -4,7 +4,7 @@
 
 <div>
 	<b>Complete user stories: </b>
-   <p>&#10004; Display my avatar, name and my majoy</p>
+   <p>&#10004; Display my avatar, name and my majors</p>
    <p>&#10004; Display the following button and send message, I put the shadow effect for both buttons too. Its kind of light if you notice you will see that. And when you press those buttons, it will alert that you have already sent message or followed</p>
    <p>&#10004; It also displays the count of photos, followers, following i had. Its just fake =))</p>
    <p>&#10004; The place where all my image post are in, user can scroll up and down to see it</p>
