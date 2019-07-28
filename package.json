@@ -1,0 +1,15 @@
+{
+  "name": "github.com/ngthhang/profilecard",
+  "version": "0.0.0",
+  "description": "ngthhang/profileCard @ Jul 27, 2019",
+  "author": null,
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "dependencies": {
+    "expo": "^33.0.0",
+    "react": "16.8.3",
+    "react-native": "https://github.com/expo/react-native/archive/sdk-33.0.0.tar.gz",
+    "react-dom": "^16.8.6",
+    "react-native-web": "^0.11.4"
+  }
+}
